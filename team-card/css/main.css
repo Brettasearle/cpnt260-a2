@@ -5,6 +5,7 @@
 body {
   margin: 0;
 }
+<!-- main card with the river -->
 .card {
   margin: auto;
   border: 1px solid grey;
@@ -26,7 +27,7 @@ body {
   flex-direction: column;
 }
 
-
+<!-- picture of the girl card -->
 .card div img {
   border-padding: 1rem;
   border-radius: 50%;
