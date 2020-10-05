@@ -12,7 +12,7 @@ url (https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assi
 font-family: 'Roboto', sans-serif;  
 
 
-font-family: 'Roboto', sans-serif;
+font-family: 'Open Sans', sans-serif;
 
 
 "https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/jane-doe.jpg" alt="jane-doe"
