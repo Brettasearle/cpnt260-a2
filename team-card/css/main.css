@@ -1,0 +1,58 @@
+{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+.card {
+  margin: auto;
+  border: 1px solid grey;
+  box-shadow: 2px 2px 5px;
+  padding: 1em;
+  min-width: 20ch;
+  max-width: 40ch;
+  max-height: 60ch;
+  display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-image:
+    linear-gradient(360deg, #E4E4E4 70%, transparent 50%),   
+  url(https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/river.jpg);
+  background-repeat: no-repeat;
+  background-size: center-top; 
+  background-position: 50% -80%;
+  height: 100vh;
+  flex-direction: column;
+}
+
+
+.card div img {
+  border-padding: 1rem;
+  border-radius: 50%;
+  height: 20ch;
+  width: 20ch;
+  display: flex;
+  justify-content: center;
+  border: 9px solid #E4E4E4;
+  
+}
+
+.card-text {
+  text-align: center;
+  
+}
+.logos {
+  display: flex;
+  justify-content: space-evenly;
+  letter-spacing: 20px;
+  font-size: 38px;
+  color: darkblue;
+  
+  }
+p {
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+}
