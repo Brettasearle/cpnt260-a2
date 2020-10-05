@@ -5,7 +5,7 @@ Team card
 Brett searle  
 
 
-url (https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/river.jpg)
+river photo: (https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/river.jpg)
 
 
 
@@ -15,7 +15,7 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Open Sans', sans-serif;
 
 
-"https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/jane-doe.jpg" alt="jane-doe"
+ photo of the girl: "https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/jane-doe.jpg" alt="jane-doe"
 
 
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-
