@@ -18,7 +18,7 @@ font-family: 'Open Sans', sans-serif;
  photo of the girl: "https://raw.githubusercontent.com/sait-wbdv/assessments/master/cpnt260/assignment-2/images/jane-doe.jpg" alt="jane-doe"
 
 
-"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-
+all logos: https://fontawesome.com/ 
 
 
 1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous"
